@@ -1,0 +1,34 @@
+[0.038s] Invoking command in '/home/sanad/dev_ws/build/sanad_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sanad/dev_ws/build/sanad_bot -- -j16 -l16
+[0.067s] Invoked command in '/home/sanad/dev_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sanad/dev_ws/build/sanad_bot -- -j16 -l16
+[0.083s] Invoking command in '/home/sanad/dev_ws/build/sanad_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sanad/dev_ws/build/sanad_bot
+[0.089s] -- Install configuration: ""
+[0.089s] -- Execute custom install script
+[0.090s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/config/empty.yaml
+[0.091s] -- Symlinking: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/description/depth_camera.xacro
+[0.096s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/description/gazebo_control.xacro
+[0.096s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/description/inertial_macros.xacro
+[0.096s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/description/lidar.xacro
+[0.096s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/description/robot.urdf.xacro
+[0.096s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/description/robot_core.xacro
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/launch/camera.launch.py
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/launch/launch_sim.launch.py
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/launch/rplidar.launch.py
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/launch/rsp.launch.py
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/worlds/empty.world
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/worlds/obstacles.world
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/ament_index/resource_index/package_run_dependencies/sanad_bot
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/ament_index/resource_index/parent_prefix_path/sanad_bot
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/environment/ament_prefix_path.sh
+[0.097s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/environment/ament_prefix_path.dsv
+[0.098s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/environment/path.sh
+[0.098s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/environment/path.dsv
+[0.098s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/local_setup.bash
+[0.098s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/local_setup.sh
+[0.098s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/local_setup.zsh
+[0.098s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/local_setup.dsv
+[0.098s] -- Symlinking: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/package.dsv
+[0.102s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/ament_index/resource_index/packages/sanad_bot
+[0.102s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/cmake/sanad_botConfig.cmake
+[0.102s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/cmake/sanad_botConfig-version.cmake
+[0.102s] -- Up-to-date symlink: /home/sanad/dev_ws/install/sanad_bot/share/sanad_bot/package.xml
+[0.103s] Invoked command in '/home/sanad/dev_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sanad/dev_ws/build/sanad_bot

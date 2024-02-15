@@ -1,0 +1,1 @@
+/home/sanad/dev_ws/build/sanad_bot/ament_cmake_core/sanad_botConfig-version.cmake

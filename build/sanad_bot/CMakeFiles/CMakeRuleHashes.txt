@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+2564e13b616bec6103fe7d69f9dbedcd CMakeFiles/sanad_bot_uninstall
